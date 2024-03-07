@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 /**
  * 插入排序
+ * <p>
+ * 时间复杂度：O(n^2)
  *
  * @author qinghua.shao
  * @date 2024/3/7
